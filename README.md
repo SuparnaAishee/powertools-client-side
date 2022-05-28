@@ -5,7 +5,7 @@
 
 
 
-## website client side git hub code link: https://github.com/programming-hero-web-course1/manufacturer-website-client-side-Niloy-Dey
+## website client side git hub code link:https://github.com/programming-hero-web-course1/manufacturer-website-client-side-SuparnaAishee
 
 
 
