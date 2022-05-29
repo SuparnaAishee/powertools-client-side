@@ -1,19 +1,18 @@
 ## website name : Tech Tool
 
 
-## website live link: https://manufacturing-website.web.app/
-
+## website live link:
 
 
 ## website client side git hub code link:https://github.com/programming-hero-web-course1/manufacturer-website-client-side-SuparnaAishee
 
 
 
-## website heroku  live link: https://mysterious-forest-77053.herokuapp.com/
+## 
 
 
 
-## website server side git hub code link:  https://github.com/programming-hero-web-course1/manufacturer-website-server-side-Niloy-Dey
+## website server side git hub code link: https://github.com/programming-hero-web-course1/manufacturer-website-client-side-SuparnaAishee/edit/main/README.md
 
 
 * A tech tool react website
