@@ -62,7 +62,7 @@ const Footer = () => {
           </Link>
         </div>
         <h6 className="text-muted pt-5 pb-1">
-          Copyright &copy; 2021 Tech Tools
+          Copyright &copy; 2022 Power Tools
         </h6>
       </footer>
     );

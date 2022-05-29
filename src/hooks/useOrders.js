@@ -1,13 +1,12 @@
 import { useEffect, useState } from "react";
 
-
 const useOrders = () => {
-    const [orders, setOrders] = useState([]);
-    useEffect(() => {
-        fetch(`https://mysterious-forest-77053.herokuapp.com/orderDetails`)
-            .then(res => res.json())
-            .then(data => setOrders(data))
-    }, [])
-    return[orders, setOrders]
-}
+  const [orders, setOrders] = useState([]);
+  useEffect(() => {
+    fetch(`http://localhost:5000/orderDetails`)
+      .then((res) => res.json())
+      .then((data) => setOrders(data));
+  }, []);
+  return [orders, setOrders];
+};
 export default useOrders;

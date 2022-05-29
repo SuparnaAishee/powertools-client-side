@@ -106,7 +106,7 @@ const Login = () => {
                                 <input className='w-full max-w-xs  btn bg-warning uppercase text-white font-bold  ' value="Login" type="submit" />
                             </form>
 
-                            <p><small>New to Hardware Tools ?</small> <Link to="/signUp" className='text-success'><b>Create a New Account</b></Link>  </p>
+                            <p><small>New to Power Tools ?</small> <Link to="/signUp" className='text-success'><b>Create a New Account</b></Link>  </p>
 
                             <div className='divider'>OR</div>
                             <button onClick={() => signInWithGoogle()} className='btn btn-outline '>Continue With Google</button>
